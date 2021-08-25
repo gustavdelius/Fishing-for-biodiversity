@@ -1,0 +1,1 @@
+install.packages(c("mizer", "knitr", "rmarkdown", "plotly", "magrittr"))
